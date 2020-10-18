@@ -1,7 +1,7 @@
 {
     "headers": {
         "/*": {
-            "X-Autor": "victoz_dv",
+            "X-Author": "victoz_dv",
             "Access-Control-Allow-Origin": "*"
             }
         }
